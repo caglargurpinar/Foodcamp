@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "667736766867",
+    "project_id": "foodcamp-2f084",
+    "storage_bucket": "foodcamp-2f084.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667736766867:android:67146fff26924862851066",
+        "android_client_info": {
+          "package_name": "com.example.foodcamp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667736766867-vgnpnhualgpmesggots5s095osq5i01b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6wQ86CuBIzlsv6I_94EO6AMv81CzhO5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667736766867-vgnpnhualgpmesggots5s095osq5i01b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
